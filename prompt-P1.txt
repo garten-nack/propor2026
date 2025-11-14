@@ -1,0 +1,6 @@
+O texto a seguir é uma transcrição de aula:
+Transcrição: {transcrição}
+Extraia os conceitos apresentados utilizando somente as informações da transcrição.
+Retorne cada conceito na forma de uma pergunta e o trecho da transcrição que foi utilizada para elaborar a pergunta.
+A pergunta deve estar baseada apenas no trecho da transcrição identificada.
+A saída deve estar no formato CSV com dados entre aspas duplas contendo: "pergunta","trecho".
