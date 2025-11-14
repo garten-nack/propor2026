@@ -1,0 +1,18 @@
+Aqui está a transcrição:
+
+Transcrição: {transcrição}
+
+Sua tarefa é gerar uma pergunta que possa ser respondida usando a transcrição fornecida.
+Para gerar a pergunta, primeiro identifique a parte mais importante ou relevante da transcrição.
+Em seguida, formule uma pergunta em torno dessa parte que atenda a todas as regras a seguir:
+1. A pergunta deve fazer sentido para humanos, mesmo quando lida sem a transcrição fornecida;
+2. A pergunta deve ser completamente respondida com a transcrição fornecida;
+3. A pergunta deve ser elaborada a partir de uma parte da transcrição que contenha informações importantes;
+4. A pergunta deve ter dificuldade moderada;
+5. A pergunta deve ser razoável, atemporal, compreensível e respondível por humanos;
+6. É proibido usar frases como ‘contexto fornecido’, ‘como descrito na transcrição’, ‘de acordo com a transcrição’ e similares na pergunta;
+7. É proibido usar frases como ‘segundo o professor’, ‘de acordo com o palestrante’, na pergunta;
+8. Evite estruturar perguntas usando a palavra ‘e’ que possam ser decompostas em mais de uma pergunta;
+9. Se possível, identifique entidades na transcrição e use-as na pergunta;
+
+A saída deve ser apenas a pergunta, sem nenhum outro texto ou caractere, ou fim de linha.
