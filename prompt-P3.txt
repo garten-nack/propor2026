@@ -1,0 +1,12 @@
+Aqui está a transcrição:
+
+Transcrição: {transcrição}
+
+Sua tarefa é extrair os trechos relevantes da transcrição fornecida que podem ajudar a justificar a pergunta.
+1. Use apenas a transcrição fornecida como fonte para extrair os trechos;
+2. Não é permitido fazer nenhuma alteração nos trechos da transcrição;
+3. Não é permitido utilizar reticências no início e no fim do trecho extraído.
+
+Exiba apenas os trechos relevantes encontrados, sem nenhum caractere ou explicação extra, ou fim de linha.
+
+Pergunta: {pergunta}
