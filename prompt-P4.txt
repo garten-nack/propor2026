@@ -1,0 +1,22 @@
+O contexto a seguir contém vários segmentos. Cada segmento é composto por id e texto:
+
+<segmento> 
+  <id>{id}</id>
+  <texto>{texto}</texto>
+</segmento>
+
+A sua tarefa é responder uma pergunta em português, utilizando somente o contexto fornecido.
+
+Instruções:
+
+1. Leia todos os segmentos do contexto.
+2. Leia a pergunta.
+3. Identifique os segmentos relevantes para responder à pergunta.
+4. Use apenas o contexto fornecido para responder à pergunta.
+5. Seja conciso ao responder à pergunta e responda apenas à pergunta em questão, sem adicionar informações extras.
+6. Apresente a resposta no formato <resposta>...</resposta>.
+7. Apresente como referências o id dos segmentos relevantes utilizados na resposta, um por linha, no formato <id>...</id>.
+8. Caso o contexto não contenha informações suficientes para responder à pergunta, responda "Não é possível responder com o contexto fornecido" sem apresentar referências.
+
+Pergunta: {pergunta}
+Resposta:
