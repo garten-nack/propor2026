@@ -10,9 +10,5 @@
 ## Exemplos
 - [E1: Exemplo de um segmento](exemplo1-segmento.txt)
 
-## Análises
-
-- [A1: Perguntas contextualizadas não respondidas](analise1-perguntas-contextualizadas-nao-respondidas.md)
-
 ---
 https://propor2026.ufba.br/
