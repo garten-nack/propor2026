@@ -1,22 +1,6 @@
-id-segmento: 3000
-URL: <https://www.youtube.com/embed/XXXXX?start=275&end=419>
-inicio: 00:04:35
-fim: 00:06:59
-transcrição: "lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod 
-tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis 
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat 
-duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore 
-eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt 
-in culpa qui officia deserunt mollit anim id est laborum
-lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod 
-tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis 
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat 
-duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore 
-eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt 
-in culpa qui officia deserunt mollit anim id est laborum
-lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod 
-tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis 
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat 
-duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore 
-eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt 
-in culpa qui officia deserunt mollit anim id est laborum"
+- *ID-segmento:* 1435
+- *URL:* https://www.youtube.com/embed/exemplo-anonimo?start=275&end=419
+- *Início:* 00:01:47
+- *Fim:* 00:03:46
+- *Transcrição:* "principalmente aprendizado profundo se usa muito então ela é uma estratégia útil Tá mas depois a gente vai motivar porque que a gente precisa outras estratégias e a gente vai explorar essas outras estratégias na disciplina seguinte lembre quando a gente falou da base de aprendizado de máquina né a gente discutiu o processo é o processo não Desculpem a característica de desculpe a característica de generalização tá generalização Seria isso quão bem esse modelo se sai na classificação na regressão enfim para novas instâncias instâncias que ele nunca viu que não estão na base de treinamento tá esse é o grande objetivo do aprendizado de máquina eu quero modelar bem os dados que eu tenho mas o objetivo em fazer isso a ser capaz de tomar decisões sobre novos dados e eu preciso fazer ter formas de avaliar essa capacidade de anenalização seja tão bem esse modelo vai sair quando ele for confrontado com dados que ele não viu que não estava na base de treinamento Quando eu digo em dados que ele não viu tem toda uma questão muito importante a gente citar que a gente está discutindo a respeito de um problema específico de uma distribuição de dados né então esses dados que ele não viu não quer dizer que são Dados totalmente diferentes né Se forem totalmente diferentes ele não vai sair bem mas são Dados que a gente assume que surge na mesma distribuição da mesma população então se eu tô tentando analisar aquela questão de probabilidade de uma pessoa vira fazer compras em uma loja né É porque eu tô lidando com conjunto de dados uma população Ou seja a base que eu tô usando para treinamento são de características que essa nova pessoa esse novo cliente sim vai se integrar ali na distribuição de alguma forma tá é uma coisa totalmente diferente se eu tô falando sobre a questão de"
+
