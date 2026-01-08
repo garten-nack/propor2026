@@ -8,7 +8,7 @@
 - [P4: Geração da resposta](prompt-P4.txt)
 
 ## Exemplos
-- [E1: Exemplo de um segmento](exemplo1-segmento.txt)
+- [E1: Exemplo de um segmento](exemplo1-segmento.md)
 
 ---
 https://propor2026.ufba.br/
